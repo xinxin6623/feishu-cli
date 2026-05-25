@@ -31,3 +31,6 @@ venv/
 workflows/**/output/
 workflows/**/.local/
 examples/**/output/
+
+# 临时数据载入文件（脚本批量写入用）
+scripts/.tmp/
